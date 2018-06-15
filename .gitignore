@@ -1,0 +1,10 @@
+##----------Python----------
+*.pyc
+__pycache__/
+
+##----------Other----------
+.gitignore
+# osx
+*~
+.DS_Store
+gradle.properties
